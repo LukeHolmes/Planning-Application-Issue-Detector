@@ -1,0 +1,24 @@
+# Label: how "problematic" is defined
+#   delay — processing time exceeds threshold_days (retrospective)
+#   refusal — decision is Refused
+#   either — delay OR refusal
+label_mode: delay
+threshold_days: 180
+
+# Features:
+#   early — authority + application type only (no leakage from outcome timeline)
+#   full — includes processing_time (only valid for retrospective/delay analysis)
+feature_set: early
+
+model: xgboost
+test_size: 0.2
+random_state: 42
+
+# Column names (raw Excel export)
+columns:
+  received_date: ReceivedDate
+  decision_date: DecisionDate
+  planning_authority: PlanningAuthority
+  application_type: ApplicationType
+  decision: Decision
+  development_description: DevelopmentDescription

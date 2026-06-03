@@ -1,0 +1,16 @@
+# Retrospective analysis only — includes processing time as a feature.
+# Do not use for claiming early prediction at submission time.
+label_mode: delay
+threshold_days: 180
+feature_set: full
+model: xgboost
+test_size: 0.2
+random_state: 42
+
+columns:
+  received_date: ReceivedDate
+  decision_date: DecisionDate
+  planning_authority: PlanningAuthority
+  application_type: ApplicationType
+  decision: Decision
+  development_description: DevelopmentDescription

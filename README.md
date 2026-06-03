@@ -1,21 +1,103 @@
-The Predictive Model for Problematic Planning Applications project aims to enhance the efficiency and effectiveness of local councils in managing planning applications. In many jurisdictions, the planning application process can be complex and time-consuming, with applications often facing delays or refusals. This project seeks to address these challenges by providing a robust machine learning model that predicts the likelihood of planning applications being deemed problematic based on historical data.
+# Planning Application Issue Detector
 
-Objectives
-Identify Problematic Applications: The primary goal of the model is to identify applications that are likely to face issues such as refusals or require additional scrutiny. By doing so, councils can prioritize their resources and focus on applications that may need more attention.
+Machine learning pipeline to help identify **problematic Irish planning applications** — for example those with very long processing times or refusals — so councils can prioritise review and resources.
 
-Enhance Decision-Making: The model provides data-driven insights that support decision-makers in understanding the factors contributing to problematic applications. This can lead to more informed and consistent decision-making processes.
+The original work lived in a single [Google Colab notebook](Irish_Planning_Data_Ireland_Cloud_Version_No_API.ipynb). This repository now adds a **reproducible Python package**, **CLI**, **Streamlit demo**, and **CI tests**.
 
-Optimize Resource Allocation: By predicting which applications are likely to be problematic, councils can allocate their staff and resources more effectively, reducing the burden on planning departments and improving overall service delivery.
+![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)
 
-Methodology
-The model employs various machine learning algorithms, including Logistic Regression, Random Forest, and XGBoost, to analyze historical planning application data. Key steps in the methodology include:
+## Quick start
 
-Data Preprocessing: Cleaning and transforming raw data into a usable format, including handling missing values and encoding categorical variables.
-Feature Selection: Identifying relevant features that influence the likelihood of an application being problematic, such as processing time, application type, and planning authority.
-Model Training and Evaluation: Training the model on historical data and evaluating its performance using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC. The model has demonstrated a high level of accuracy (over 99%).
-Benefits
-Proactive Management: Councils can proactively address potential issues before they escalate, improving the overall efficiency of the planning process.
-Transparency and Accountability: The model supports transparent decision-making, allowing councils to justify their actions based on data-driven insights.
-Continuous Improvement: The model can be updated with new data to refine predictions and adapt to changing trends in planning applications.
-Conclusion
-This predictive model represents a significant advancement in how local councils can approach the planning application process. By leveraging machine learning techniques, councils can make better-informed decisions, ultimately leading to improved outcomes for both applicants and the community.
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -e ".[app,dev]"
+
+# Train on bundled sample data (or set PLANNING_DATA_PATH to your Excel file)
+export PLANNING_DATA_PATH=data/sample/planning_applications_sample.csv
+planning-train
+
+# Interactive demo
+streamlit run streamlit_app.py
+```
+
+## Full dataset
+
+Download or export `Tableau_Ready_Planning_Applications_With_Street_Town_Cleaned.xlsx` and either:
+
+- Place it in the repo root, or
+- `export PLANNING_DATA_PATH=/path/to/file.xlsx`
+
+See [data/README.md](data/README.md).
+
+## How it works
+
+```mermaid
+flowchart LR
+  A[Excel / CSV] --> B[Load and clean]
+  B --> C[Label: problematic?]
+  B --> D[Features]
+  C --> E[Train XGBoost / RF / LR]
+  D --> E
+  E --> F[Scores + Streamlit UI]
+```
+
+### Defining “problematic”
+
+Configure in [`configs/default.yaml`](configs/default.yaml):
+
+| `label_mode` | Meaning |
+|--------------|---------|
+| `delay` | Processing time &gt; `threshold_days` (default 180) |
+| `refusal` | Decision is Refused |
+| `either` | Delay or refusal |
+
+### Avoiding misleading accuracy
+
+The Colab notebook often used **processing time both as the label and as a feature**, which inflates accuracy.
+
+| `feature_set` | Use when |
+|---------------|----------|
+| **`early`** (default) | Authority + application type only — suitable for honest evaluation |
+| **`full`** | Includes `processing_time_days` — **retrospective analysis only** ([`configs/retrospective.yaml`](configs/retrospective.yaml)) |
+
+Metrics reported after training include accuracy, precision, recall, F1, and ROC-AUC when applicable (`models/metrics.json`).
+
+## Project layout
+
+```
+├── src/planning_detector/   # Package: load, features, labels, train, predict
+├── configs/                 # YAML pipeline settings
+├── data/sample/             # Synthetic sample CSV for tests and demos
+├── streamlit_app.py         # Web UI
+├── models/                  # Trained artifacts (gitignored)
+├── notebooks/               # Focused notebooks (legacy Colab export at repo root)
+└── tests/
+```
+
+## CLI
+
+```bash
+planning-train --data path/to/data.xlsx
+planning-train --config configs/retrospective.yaml
+
+planning-predict data/sample/planning_applications_sample.csv --output scores.csv
+```
+
+## Development
+
+```bash
+make install
+make test
+make lint
+make train
+make app
+```
+
+## Legacy notebook
+
+[`Irish_Planning_Data_Ireland_Cloud_Version_No_API.ipynb`](Irish_Planning_Data_Ireland_Cloud_Version_No_API.ipynb) remains as the historical Colab export (NLP, T5 summarisation, GridSearch). New work should use the package under `src/planning_detector/`.
+
+## Licence
+
+MIT (see repository settings if not yet added).

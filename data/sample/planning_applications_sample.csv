@@ -1,0 +1,301 @@
+ReceivedDate,DecisionDate,PlanningAuthority,ApplicationType,Decision,DevelopmentDescription
+2021-01-31,2021-08-10,Galway City Council,Outline Permission,Refused,New dwelling with garage
+2020-11-10,2020-11-30,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2018-03-29,2018-05-16,Galway City Council,Retention,Granted,New dwelling with garage
+2018-12-10,2019-07-12,Cork County Council,Retention,Granted,New dwelling with garage
+2018-10-04,2019-01-27,Cork County Council,Retention,Granted,New dwelling with garage
+2020-05-06,2020-06-16,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2022-02-08,2023-03-15,Galway City Council,Retention,Granted,New dwelling with garage
+2020-08-15,2020-09-10,Galway City Council,Permission,Granted,New dwelling with garage
+2023-01-17,2023-06-02,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2019-08-24,2020-09-27,Cork County Council,Retention,Granted,New dwelling with garage
+2019-07-19,2019-08-19,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2020-02-15,2020-02-19,Cork County Council,Permission,Granted,New dwelling with garage
+2023-03-11,2023-08-26,Cork County Council,Retention,Granted,New dwelling with garage
+2022-12-01,2022-12-25,Galway City Council,Retention,Refused,New dwelling with garage
+2018-06-11,2018-08-10,Cork County Council,Outline Permission,Withdrawn,New dwelling with garage
+2019-04-01,2019-07-11,Dublin City Council,Retention,Granted,New dwelling with garage
+2019-12-21,2020-06-03,Galway City Council,Permission,Granted,New dwelling with garage
+2018-08-05,2018-09-13,Dublin City Council,Permission,Granted,New dwelling with garage
+2023-01-11,2023-01-20,Galway City Council,Permission,Refused,New dwelling with garage
+2019-10-10,2019-10-10,Galway City Council,Outline Permission,Refused,New dwelling with garage
+2022-08-26,2023-03-01,Galway City Council,Permission,Withdrawn,New dwelling with garage
+2020-10-14,2020-10-28,Galway City Council,Permission,Granted,New dwelling with garage
+2020-07-18,2020-07-30,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2020-03-15,2020-08-18,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2022-10-29,2022-11-13,Cork County Council,Outline Permission,Refused,New dwelling with garage
+2021-05-26,2021-06-27,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2018-07-26,2018-09-30,Cork County Council,Permission,Granted,New dwelling with garage
+2020-05-13,2020-09-11,Dublin City Council,Retention,Granted,New dwelling with garage
+2018-08-19,2018-10-21,Galway City Council,Permission,Granted,New dwelling with garage
+2021-03-29,2021-07-16,Galway City Council,Retention,Refused,New dwelling with garage
+2019-11-13,2020-05-29,Dublin City Council,Permission,Refused,New dwelling with garage
+2020-11-17,2020-12-16,Cork County Council,Retention,Granted,New dwelling with garage
+2022-03-10,2022-03-25,Dublin City Council,Outline Permission,Withdrawn,New dwelling with garage
+2021-11-09,2021-12-10,Cork County Council,Permission,Refused,New dwelling with garage
+2022-11-04,2022-12-17,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2022-08-28,2023-01-16,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2022-08-23,2022-11-18,Dublin City Council,Permission,Granted,New dwelling with garage
+2019-03-18,2020-04-14,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2021-02-10,2021-03-01,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2019-10-04,2019-12-06,Galway City Council,Permission,Granted,New dwelling with garage
+2019-01-20,2019-02-21,Cork County Council,Permission,Granted,New dwelling with garage
+2022-08-23,2022-11-27,Galway City Council,Outline Permission,Refused,New dwelling with garage
+2018-05-03,2018-06-05,Cork County Council,Permission,Granted,New dwelling with garage
+2018-07-17,2018-09-16,Galway City Council,Permission,Granted,New dwelling with garage
+2018-07-06,2018-07-30,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2020-08-12,2020-09-10,Cork County Council,Outline Permission,Refused,New dwelling with garage
+2021-03-17,2021-07-19,Dublin City Council,Permission,Granted,New dwelling with garage
+2019-07-05,2020-05-31,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2019-04-18,2019-05-16,Galway City Council,Retention,Granted,New dwelling with garage
+2018-09-20,2019-01-27,Cork County Council,Permission,Granted,New dwelling with garage
+2020-05-30,2020-07-02,Cork County Council,Permission,Withdrawn,New dwelling with garage
+2020-10-11,2020-11-29,Galway City Council,Outline Permission,Refused,New dwelling with garage
+2021-02-28,2021-10-18,Cork County Council,Permission,Granted,New dwelling with garage
+2019-08-10,2020-07-04,Cork County Council,Retention,Granted,New dwelling with garage
+2019-05-25,2020-04-26,Dublin City Council,Permission,Granted,New dwelling with garage
+2020-05-27,2020-08-30,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2022-09-01,2022-09-24,Dublin City Council,Retention,Granted,New dwelling with garage
+2023-04-24,2023-06-17,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2020-11-22,2021-02-23,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2020-11-11,2020-12-14,Cork County Council,Retention,Granted,New dwelling with garage
+2019-03-14,2019-12-22,Galway City Council,Retention,Granted,New dwelling with garage
+2022-06-21,2022-10-02,Dublin City Council,Permission,Granted,New dwelling with garage
+2020-03-26,2020-05-04,Galway City Council,Permission,Granted,New dwelling with garage
+2021-04-10,2022-03-14,Dublin City Council,Retention,Withdrawn,New dwelling with garage
+2018-04-09,2018-09-21,Dublin City Council,Permission,Granted,New dwelling with garage
+2018-06-30,2018-10-09,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2020-07-16,2021-03-01,Galway City Council,Retention,Granted,New dwelling with garage
+2022-10-25,2023-06-05,Galway City Council,Retention,Granted,New dwelling with garage
+2021-08-04,2021-12-15,Galway City Council,Retention,Granted,New dwelling with garage
+2019-05-05,2020-01-11,Dublin City Council,Permission,Granted,New dwelling with garage
+2018-09-03,2018-10-26,Dublin City Council,Retention,Refused,New dwelling with garage
+2023-03-06,2023-04-10,Dublin City Council,Retention,Granted,New dwelling with garage
+2018-02-05,2018-08-16,Dublin City Council,Retention,Refused,New dwelling with garage
+2020-08-29,2021-05-17,Galway City Council,Retention,Granted,New dwelling with garage
+2019-12-28,2020-05-09,Galway City Council,Permission,Granted,New dwelling with garage
+2021-04-28,2021-06-07,Cork County Council,Retention,Granted,New dwelling with garage
+2022-09-12,2022-09-16,Galway City Council,Retention,Granted,New dwelling with garage
+2019-09-05,2019-12-02,Dublin City Council,Permission,Granted,New dwelling with garage
+2020-02-13,2020-02-19,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2020-07-24,2020-12-26,Dublin City Council,Retention,Granted,New dwelling with garage
+2022-08-21,2022-08-26,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2023-05-29,2023-07-02,Cork County Council,Permission,Granted,New dwelling with garage
+2021-02-24,2021-07-16,Dublin City Council,Permission,Granted,New dwelling with garage
+2019-05-28,2019-08-06,Cork County Council,Retention,Refused,New dwelling with garage
+2019-05-03,2020-03-25,Dublin City Council,Permission,Refused,New dwelling with garage
+2022-01-10,2022-03-19,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2018-06-03,2018-07-25,Dublin City Council,Retention,Granted,New dwelling with garage
+2023-06-21,2023-07-02,Galway City Council,Permission,Granted,New dwelling with garage
+2020-08-15,2021-01-07,Cork County Council,Retention,Granted,New dwelling with garage
+2019-07-05,2019-08-25,Cork County Council,Retention,Granted,New dwelling with garage
+2022-11-21,2023-03-15,Dublin City Council,Retention,Granted,New dwelling with garage
+2023-04-14,2023-08-09,Cork County Council,Permission,Granted,New dwelling with garage
+2019-05-31,2019-09-22,Galway City Council,Retention,Granted,New dwelling with garage
+2020-06-14,2020-10-13,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2023-05-07,2023-11-23,Galway City Council,Permission,Granted,New dwelling with garage
+2022-05-20,2023-06-13,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2019-02-01,2019-03-01,Cork County Council,Retention,Granted,New dwelling with garage
+2020-01-24,2020-06-09,Dublin City Council,Retention,Granted,New dwelling with garage
+2023-04-30,2023-09-14,Cork County Council,Retention,Granted,New dwelling with garage
+2023-04-11,2023-04-26,Dublin City Council,Retention,Granted,New dwelling with garage
+2019-02-17,2019-02-21,Dublin City Council,Permission,Withdrawn,New dwelling with garage
+2019-11-07,2019-11-30,Dublin City Council,Outline Permission,Withdrawn,New dwelling with garage
+2022-04-21,2022-06-15,Galway City Council,Outline Permission,Withdrawn,New dwelling with garage
+2018-02-06,2018-03-10,Galway City Council,Permission,Refused,New dwelling with garage
+2020-05-16,2020-05-29,Dublin City Council,Permission,Granted,New dwelling with garage
+2023-03-19,2023-05-17,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2022-06-24,2022-06-25,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2019-03-31,2020-04-11,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2018-05-24,2018-08-03,Galway City Council,Permission,Granted,New dwelling with garage
+2022-02-01,2022-07-18,Galway City Council,Permission,Granted,New dwelling with garage
+2022-09-13,2022-12-03,Galway City Council,Retention,Granted,New dwelling with garage
+2021-03-02,2021-08-09,Dublin City Council,Outline Permission,Refused,New dwelling with garage
+2020-01-21,2020-02-08,Cork County Council,Retention,Granted,New dwelling with garage
+2021-06-30,2022-02-03,Cork County Council,Permission,Granted,New dwelling with garage
+2021-11-17,2022-06-12,Cork County Council,Retention,Granted,New dwelling with garage
+2021-04-03,2021-05-04,Dublin City Council,Permission,Refused,New dwelling with garage
+2022-08-08,2023-07-27,Dublin City Council,Permission,Refused,New dwelling with garage
+2020-12-29,2021-05-25,Galway City Council,Permission,Granted,New dwelling with garage
+2018-06-16,2018-08-21,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2022-01-14,2022-02-18,Cork County Council,Retention,Granted,New dwelling with garage
+2019-04-21,2019-10-12,Galway City Council,Permission,Refused,New dwelling with garage
+2019-01-22,2019-05-07,Cork County Council,Permission,Granted,New dwelling with garage
+2021-10-24,2021-11-03,Dublin City Council,Retention,Granted,New dwelling with garage
+2018-02-27,2018-02-28,Dublin City Council,Permission,Granted,New dwelling with garage
+2018-03-21,2018-06-19,Galway City Council,Permission,Granted,New dwelling with garage
+2022-08-10,2023-09-14,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2022-03-30,2022-05-10,Dublin City Council,Permission,Granted,New dwelling with garage
+2021-07-06,2022-04-09,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2020-01-06,2020-01-13,Cork County Council,Permission,Granted,New dwelling with garage
+2021-10-03,2022-02-04,Cork County Council,Retention,Granted,New dwelling with garage
+2020-05-18,2021-06-22,Galway City Council,Retention,Granted,New dwelling with garage
+2021-05-09,2021-06-22,Dublin City Council,Permission,Granted,New dwelling with garage
+2022-04-20,2022-11-13,Cork County Council,Outline Permission,Refused,New dwelling with garage
+2023-01-13,2023-11-10,Cork County Council,Retention,Refused,New dwelling with garage
+2020-05-26,2020-06-16,Dublin City Council,Retention,Refused,New dwelling with garage
+2018-08-12,2019-09-16,Galway City Council,Permission,Refused,New dwelling with garage
+2021-05-25,2022-06-29,Galway City Council,Permission,Refused,New dwelling with garage
+2022-06-22,2022-06-26,Galway City Council,Permission,Granted,New dwelling with garage
+2020-04-02,2020-11-28,Dublin City Council,Permission,Withdrawn,New dwelling with garage
+2023-03-09,2023-12-27,Galway City Council,Permission,Refused,New dwelling with garage
+2019-12-15,2020-07-29,Dublin City Council,Permission,Granted,New dwelling with garage
+2023-03-17,2023-04-20,Dublin City Council,Permission,Granted,New dwelling with garage
+2019-03-25,2019-08-05,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2018-06-03,2018-08-24,Cork County Council,Retention,Refused,New dwelling with garage
+2021-08-22,2022-04-08,Cork County Council,Permission,Granted,New dwelling with garage
+2020-02-02,2020-04-03,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2021-06-06,2021-09-30,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2021-12-16,2022-04-10,Cork County Council,Retention,Granted,New dwelling with garage
+2023-02-17,2023-04-17,Galway City Council,Outline Permission,Withdrawn,New dwelling with garage
+2021-08-24,2021-11-27,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2020-01-29,2020-04-26,Dublin City Council,Permission,Refused,New dwelling with garage
+2018-05-18,2019-03-27,Cork County Council,Permission,Granted,New dwelling with garage
+2020-09-10,2020-09-15,Cork County Council,Permission,Granted,New dwelling with garage
+2018-05-06,2018-09-03,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2022-08-14,2022-08-30,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2022-03-24,2022-04-16,Dublin City Council,Outline Permission,Refused,New dwelling with garage
+2019-10-29,2020-03-09,Cork County Council,Permission,Granted,New dwelling with garage
+2021-11-27,2022-06-21,Cork County Council,Retention,Granted,New dwelling with garage
+2021-11-29,2022-03-04,Dublin City Council,Permission,Granted,New dwelling with garage
+2020-12-05,2021-01-28,Cork County Council,Retention,Granted,New dwelling with garage
+2021-01-01,2021-01-12,Galway City Council,Permission,Granted,New dwelling with garage
+2020-12-15,2021-08-20,Galway City Council,Permission,Granted,New dwelling with garage
+2020-03-14,2020-09-26,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2019-12-20,2020-03-21,Cork County Council,Retention,Granted,New dwelling with garage
+2018-03-19,2018-06-01,Dublin City Council,Retention,Granted,New dwelling with garage
+2021-08-28,2021-09-14,Galway City Council,Outline Permission,Refused,New dwelling with garage
+2018-12-29,2019-03-30,Dublin City Council,Retention,Granted,New dwelling with garage
+2020-01-09,2020-03-09,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2019-12-15,2020-03-23,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2018-05-06,2018-05-21,Dublin City Council,Permission,Granted,New dwelling with garage
+2022-05-23,2022-07-14,Dublin City Council,Permission,Granted,New dwelling with garage
+2018-08-16,2018-11-16,Cork County Council,Outline Permission,Refused,New dwelling with garage
+2021-10-24,2022-01-31,Cork County Council,Permission,Granted,New dwelling with garage
+2019-11-23,2020-03-26,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2020-05-26,2020-07-13,Dublin City Council,Permission,Granted,New dwelling with garage
+2018-10-04,2018-10-23,Galway City Council,Retention,Granted,New dwelling with garage
+2023-01-28,2023-08-12,Galway City Council,Permission,Granted,New dwelling with garage
+2018-08-31,2018-09-02,Dublin City Council,Outline Permission,Refused,New dwelling with garage
+2019-04-13,2020-05-17,Galway City Council,Retention,Withdrawn,New dwelling with garage
+2022-06-18,2022-07-10,Galway City Council,Retention,Withdrawn,New dwelling with garage
+2020-04-26,2020-07-26,Cork County Council,Outline Permission,Refused,New dwelling with garage
+2022-07-27,2022-08-20,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2019-06-16,2019-07-19,Galway City Council,Permission,Granted,New dwelling with garage
+2018-11-16,2018-11-26,Cork County Council,Outline Permission,Withdrawn,New dwelling with garage
+2020-04-24,2020-07-24,Dublin City Council,Retention,Granted,New dwelling with garage
+2018-01-10,2018-04-15,Cork County Council,Retention,Granted,New dwelling with garage
+2022-07-24,2022-08-04,Galway City Council,Permission,Granted,New dwelling with garage
+2020-02-16,2020-06-03,Cork County Council,Outline Permission,Refused,New dwelling with garage
+2021-01-23,2021-12-07,Cork County Council,Retention,Granted,New dwelling with garage
+2019-01-11,2020-02-15,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2021-08-12,2022-01-12,Dublin City Council,Outline Permission,Refused,New dwelling with garage
+2018-09-27,2019-04-07,Galway City Council,Permission,Granted,New dwelling with garage
+2020-04-30,2020-09-08,Cork County Council,Retention,Granted,New dwelling with garage
+2022-11-08,2023-02-22,Cork County Council,Outline Permission,Refused,New dwelling with garage
+2020-03-10,2020-05-23,Cork County Council,Permission,Refused,New dwelling with garage
+2018-05-23,2018-09-03,Dublin City Council,Permission,Granted,New dwelling with garage
+2023-06-09,2023-09-11,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2022-07-28,2022-09-14,Galway City Council,Retention,Granted,New dwelling with garage
+2020-11-04,2021-07-15,Dublin City Council,Retention,Refused,New dwelling with garage
+2019-02-24,2020-03-30,Dublin City Council,Permission,Refused,New dwelling with garage
+2021-12-05,2022-05-17,Cork County Council,Retention,Refused,New dwelling with garage
+2019-06-01,2020-02-07,Dublin City Council,Retention,Refused,New dwelling with garage
+2021-03-28,2021-05-24,Dublin City Council,Outline Permission,Refused,New dwelling with garage
+2021-07-08,2021-09-25,Dublin City Council,Retention,Granted,New dwelling with garage
+2019-09-19,2020-02-08,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2022-08-11,2022-09-04,Cork County Council,Retention,Granted,New dwelling with garage
+2018-01-23,2018-04-07,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2018-05-21,2018-06-07,Cork County Council,Permission,Granted,New dwelling with garage
+2022-06-28,2023-03-01,Dublin City Council,Permission,Refused,New dwelling with garage
+2021-02-03,2021-07-30,Galway City Council,Retention,Granted,New dwelling with garage
+2018-02-20,2018-07-30,Dublin City Council,Retention,Withdrawn,New dwelling with garage
+2022-11-28,2022-12-12,Dublin City Council,Retention,Refused,New dwelling with garage
+2021-04-20,2021-11-24,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2019-01-06,2019-04-23,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2021-03-06,2021-04-02,Dublin City Council,Permission,Granted,New dwelling with garage
+2023-01-01,2023-03-02,Dublin City Council,Retention,Withdrawn,New dwelling with garage
+2019-01-21,2019-04-06,Galway City Council,Retention,Withdrawn,New dwelling with garage
+2019-10-02,2019-11-01,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2018-01-25,2018-04-17,Cork County Council,Permission,Withdrawn,New dwelling with garage
+2018-06-26,2018-12-24,Galway City Council,Retention,Granted,New dwelling with garage
+2023-03-21,2023-07-29,Galway City Council,Permission,Withdrawn,New dwelling with garage
+2019-11-20,2020-02-25,Cork County Council,Outline Permission,Withdrawn,New dwelling with garage
+2019-07-15,2019-08-26,Dublin City Council,Retention,Refused,New dwelling with garage
+2023-03-30,2023-10-09,Cork County Council,Retention,Granted,New dwelling with garage
+2019-03-05,2019-04-30,Galway City Council,Retention,Granted,New dwelling with garage
+2021-10-26,2022-01-06,Cork County Council,Retention,Granted,New dwelling with garage
+2018-04-24,2018-07-15,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2021-07-11,2022-03-05,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2022-01-21,2022-10-21,Cork County Council,Permission,Granted,New dwelling with garage
+2022-02-08,2022-09-15,Galway City Council,Permission,Granted,New dwelling with garage
+2018-11-09,2018-12-09,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2018-11-24,2018-12-07,Galway City Council,Permission,Granted,New dwelling with garage
+2022-06-21,2022-09-26,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2021-01-06,2021-04-26,Cork County Council,Outline Permission,Withdrawn,New dwelling with garage
+2022-03-04,2022-07-14,Dublin City Council,Retention,Granted,New dwelling with garage
+2020-08-01,2020-08-11,Cork County Council,Outline Permission,Refused,New dwelling with garage
+2021-01-13,2021-01-16,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2019-12-01,2020-04-25,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2022-03-27,2022-05-02,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2019-01-31,2019-09-01,Dublin City Council,Retention,Refused,New dwelling with garage
+2020-06-23,2020-08-30,Galway City Council,Retention,Refused,New dwelling with garage
+2021-07-27,2021-08-10,Cork County Council,Outline Permission,Refused,New dwelling with garage
+2018-05-08,2018-06-01,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2019-06-05,2019-09-06,Dublin City Council,Permission,Granted,New dwelling with garage
+2022-11-17,2023-03-21,Cork County Council,Retention,Granted,New dwelling with garage
+2021-02-06,2021-06-27,Dublin City Council,Outline Permission,Refused,New dwelling with garage
+2018-05-08,2018-05-23,Dublin City Council,Retention,Granted,New dwelling with garage
+2022-08-28,2023-01-01,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2018-12-08,2018-12-25,Dublin City Council,Outline Permission,Refused,New dwelling with garage
+2018-06-17,2018-07-21,Dublin City Council,Permission,Granted,New dwelling with garage
+2020-06-24,2021-04-14,Cork County Council,Permission,Granted,New dwelling with garage
+2019-09-26,2019-11-30,Cork County Council,Retention,Refused,New dwelling with garage
+2020-03-29,2020-04-09,Galway City Council,Retention,Granted,New dwelling with garage
+2022-12-08,2023-01-17,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2021-06-04,2022-05-27,Galway City Council,Outline Permission,Withdrawn,New dwelling with garage
+2019-02-10,2019-07-18,Dublin City Council,Retention,Granted,New dwelling with garage
+2021-03-17,2021-04-07,Galway City Council,Permission,Granted,New dwelling with garage
+2018-12-31,2019-01-20,Dublin City Council,Retention,Granted,New dwelling with garage
+2018-03-14,2018-03-23,Dublin City Council,Permission,Granted,New dwelling with garage
+2020-07-27,2020-11-13,Dublin City Council,Outline Permission,Granted,New dwelling with garage
+2022-03-02,2022-09-10,Galway City Council,Retention,Granted,New dwelling with garage
+2019-06-08,2019-07-31,Galway City Council,Outline Permission,Withdrawn,New dwelling with garage
+2020-11-06,2021-11-01,Galway City Council,Permission,Granted,New dwelling with garage
+2021-09-03,2022-09-18,Galway City Council,Outline Permission,Refused,New dwelling with garage
+2022-10-17,2023-03-20,Cork County Council,Permission,Withdrawn,New dwelling with garage
+2021-07-15,2021-08-14,Cork County Council,Permission,Withdrawn,New dwelling with garage
+2018-02-16,2018-02-21,Galway City Council,Permission,Granted,New dwelling with garage
+2020-09-07,2020-11-22,Galway City Council,Retention,Granted,New dwelling with garage
+2022-03-23,2022-05-04,Cork County Council,Outline Permission,Withdrawn,New dwelling with garage
+2019-08-17,2020-01-28,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2022-02-22,2022-06-26,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2019-09-12,2019-09-27,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2020-07-24,2020-10-01,Galway City Council,Outline Permission,Granted,New dwelling with garage
+2019-05-12,2019-08-12,Cork County Council,Permission,Refused,New dwelling with garage
+2021-03-30,2021-12-15,Cork County Council,Retention,Granted,New dwelling with garage
+2020-01-09,2020-09-09,Cork County Council,Outline Permission,Refused,New dwelling with garage
+2021-03-10,2021-05-07,Galway City Council,Outline Permission,Withdrawn,New dwelling with garage
+2018-01-29,2018-07-22,Dublin City Council,Retention,Granted,New dwelling with garage
+2019-11-28,2020-03-11,Galway City Council,Permission,Refused,New dwelling with garage
+2020-07-09,2020-08-27,Dublin City Council,Permission,Granted,New dwelling with garage
+2018-01-03,2018-03-19,Cork County Council,Retention,Granted,New dwelling with garage
+2023-06-05,2023-09-19,Dublin City Council,Permission,Withdrawn,New dwelling with garage
+2019-08-08,2019-08-21,Dublin City Council,Outline Permission,Withdrawn,New dwelling with garage
+2018-03-02,2018-04-06,Cork County Council,Outline Permission,Refused,New dwelling with garage
+2021-08-18,2021-12-06,Cork County Council,Permission,Withdrawn,New dwelling with garage
+2022-10-01,2023-11-05,Galway City Council,Permission,Granted,New dwelling with garage
+2020-06-03,2021-01-02,Cork County Council,Retention,Granted,New dwelling with garage
+2020-04-04,2020-05-03,Dublin City Council,Retention,Refused,New dwelling with garage
+2022-12-03,2023-06-14,Cork County Council,Outline Permission,Granted,New dwelling with garage
+2022-03-25,2023-02-03,Cork County Council,Permission,Granted,New dwelling with garage
+2022-02-22,2022-05-19,Cork County Council,Retention,Withdrawn,New dwelling with garage
+2018-01-03,2018-07-25,Cork County Council,Permission,Granted,New dwelling with garage
+2021-01-17,2021-05-04,Cork County Council,Permission,Granted,New dwelling with garage
+2022-06-29,2022-08-27,Galway City Council,Permission,Refused,New dwelling with garage
+2020-07-09,2021-02-23,Cork County Council,Permission,Granted,New dwelling with garage
+2022-04-10,2022-07-15,Galway City Council,Retention,Granted,New dwelling with garage
+2020-09-01,2020-09-01,Galway City Council,Permission,Granted,New dwelling with garage
+2020-07-02,2020-07-12,Dublin City Council,Permission,Withdrawn,New dwelling with garage
+2021-02-11,2021-05-04,Cork County Council,Permission,Withdrawn,New dwelling with garage
+2021-09-08,2021-10-29,Cork County Council,Outline Permission,Refused,New dwelling with garage

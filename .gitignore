@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+dist/
+build/
+*.egg-info/
+
+models/*
+!models/.gitkeep
+
+Tableau_Ready_Planning_Applications_With_Street_Town_Cleaned.xlsx
+data/raw/
