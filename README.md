@@ -21,6 +21,21 @@ planning-train
 streamlit run streamlit_app.py
 ```
 
+## Deploy on Streamlit Community Cloud
+
+1. Push this repo to GitHub.
+2. Go to [share.streamlit.io](https://share.streamlit.io) and **Create app**.
+3. Set **Main file path** to `streamlit_app.py` and **Requirements** to `requirements.txt` (default).
+4. Deploy. The app auto-trains on the bundled sample data on first visit (ephemeral disk on Cloud).
+
+Optional **Secrets** (Settings → Secrets), see [`.streamlit/secrets.toml.example`](.streamlit/secrets.toml.example):
+
+```toml
+PLANNING_DATA_PATH = "data/sample/planning_applications_sample.csv"
+```
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+
 ## Full dataset
 
 Download or export `Tableau_Ready_Planning_Applications_With_Street_Town_Cleaned.xlsx` and either:

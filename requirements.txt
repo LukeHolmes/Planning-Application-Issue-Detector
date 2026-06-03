@@ -1,0 +1,5 @@
+# Streamlit Community Cloud and local installs (see pyproject.toml for full metadata)
+-e .
+streamlit>=1.28
+matplotlib>=3.7
+seaborn>=0.13

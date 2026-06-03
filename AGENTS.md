@@ -15,6 +15,11 @@ pip install -e ".[app,dev]"
 export PLANNING_DATA_PATH=data/sample/planning_applications_sample.csv
 ```
 
+### Streamlit Cloud
+
+- Entrypoint: `streamlit_app.py`, deps: `requirements.txt` (`-e .` installs the package).
+- First visit auto-trains on sample data; disk is ephemeral.
+
 ### Common commands
 
 | Task | Command |
