@@ -1,0 +1,17 @@
+---
+description: Planning detector data provenance, model leakage prevention and validated development
+alwaysApply: true
+globs: ""
+---
+
+# Planning Application Issue Detector — Cursor guardrails
+
+Read AGENTS.md, current configs and tests before changing the ML pipeline, training data or Streamlit UI.
+
+- Keep training and inference separate. The default early feature set avoids post-decision leakage. Never introduce decision outcomes, processing time or future facts into early-stage predictive features.
+- Clearly distinguish historical correlation from causal claims and proposed detection flags from official planning findings.
+- Use public or synthetic sample data for development; do not commit proprietary application datasets, personal data, scraped contacts or model outputs with sensitive records.
+- For modeling changes document dataset version, features, split strategy, evaluation metrics, class imbalance and known limitations. Prevent accidental train/test leakage and avoid overstating performance.
+- Run available checks per AGENTS.md (make test or pytest -q; make lint or ruff check). Verify Streamlit execution separately when changing UI. If something cannot run, report why.
+- Use scripted and reproducible data preparation and tests. Keep third-party enrichment rate-limited and provenance-aware.
+- Make edits on task branches and provide a concise PR handoff. Never deploy, merge or publish sensitive data without explicit approval.
